@@ -97,25 +97,25 @@ model = AutoModel.from_pretrained("indolem/indobertweet-base-uncased")
     <td>83.4</td>
   </tr>
   <tr>
-    <td scope="row">IndoBERTweet (1M step from scratch)</td>
+    <td scope="row">IndoBERTweet (1M steps from scratch)</td>
     <td>86.2</td>
     <td>90.4</td>
     <td>76.0</td>
-    <td>88.8</td>
-    <td>87.5</td>
-    <td>88.1</td>
+  <td><b>88.8</b></td>
+  <td><b>87.5</b></td>
+  <td><b>88.1</b></td>
     <td>85.4</td>
     <td>86.1</td>
   </tr>
   <tr>
-    <td scope="row">IndoBERT + Voc adaptation + 200k step</td>
-    <td>86.6</td>
-    <td>92.7</td>
-    <td>79.0</td>
+    <td scope="row">IndoBERT + Voc adaptation + 200k steps</td>
+  <td><b>86.6</b></td>
+  <td><b>92.7</b></td>
+  <td><b>79.0</b></td>
     <td>88.4</td>
     <td>84.0</td>
     <td>87.7</td>
-    <td>86.9</td>
-    <td>86.5</td>
+  <td><b>86.9</b></td>
+  <td><b>86.5</b></td>
   </tr>
 </table>
