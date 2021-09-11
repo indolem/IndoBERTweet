@@ -93,7 +93,7 @@ model = AutoModel.from_pretrained("indolem/indobertweet-base-uncased")
     <td>86.4</td>
     <td>79.3</td>
     <td>88.0</td>
-    <td>86.9</td>
+  <td><b>86.9</b></td>
     <td>83.4</td>
   </tr>
   <tr>
