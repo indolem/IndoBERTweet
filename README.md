@@ -26,7 +26,7 @@ model = AutoModel.from_pretrained("indolem/indobertweet-base-uncased")
 ```
 **Preprocessing Steps:**
 * lower-case all words 
-* converting user mentions and URLs into @USER and HTTPURL, respectively; and 
+* converting user mentions and URLs into @USER and HTTPURL, respectively
 * translating emoticons into text using the [emoji package](https://pypi.org/project/emoji/).
 
 ## 5. Results over 7 Indonesian Twitter Datasets
