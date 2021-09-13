@@ -2,7 +2,7 @@
 
 ## 1. Paper
 Fajri Koto, Jey Han Lau, and Timothy Baldwin. [_IndoBERTweet: A Pretrained Language Model for Indonesian Twitter
-with Effective Domain-Specific Vocabulary Initialization_](https://www.arxiv.org). 
+with Effective Domain-Specific Vocabulary Initialization_](https://arxiv.org/pdf/2109.04607.pdf). 
 In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**), Dominican Republic (virtual).
 
 ## 2. About
